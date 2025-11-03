@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=A Tauri App
+Exec=signalscope
+StartupWMClass=signalscope
+Icon=signalscope
+Name=signalscope
+Terminal=false
+Type=Application
